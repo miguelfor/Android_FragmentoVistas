@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Instrumentos Musicales</string>
+    <string name="link_nextu">http://www.fdartesnextu.com</string>
+    <string name="pie_pagina">Facultad de Artes</string>
+    <string name="instrumentos_musical">Instrumento Musicale</string>
+    <string name="descripcion_musical">Seleccione una de las clases de instrumentos musicales de la izquierda para ver su descripcion.</string>
+
+    <string-array name="instrumentos">
+        <item>Cuerda</item>
+        <item>Percusión</item>
+        <item>Viento</item>
+        <item>Eléctricos</item>
+    </string-array>
+
+    <string-array name="descripcion">
+        <item>
+            Los instrumentos de cuerda, conocidos tambien como cordofonos son aquellos que producen sonidos
+            gracias a las vibraciones de una o mas cuerdas, normalmente su sonido es amplificado mediante
+            una caja de resonancia.
+        </item>
+        <item>
+           Cabe destacar que puede obtenerse una gran variedad de sonidos según las baquetas o mazos
+            que se usan para golpear algunos de los instrumentos de percusión. Un instrumento de percusión
+            puede ser usado para crear patrones de ritmos (batería, tam-tam entre otros) o bien para emitir
+            notas musicales (xilófono).
+        </item>
+        <item>
+            Los instrumentos de viento o aerófonos son una familia de instrumentos musicales que
+            producen el sonido por la vibración del viento y de la masa de
+            aire en su interior, sin necesidad de cuerdas o membranas porque solo requiere del uso del viento.
+        </item>
+        <item>
+         Un instrumento musical eléctrico es uno en el cual el uso de aparatos eléctricos determina
+            o afecta el sonido producido por un instrumento."Electric Musical Instruments."
+            (Los Instrumentos Musicales eléctricos.).
+        </item>
+    </string-array>
+</resources>
